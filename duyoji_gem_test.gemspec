@@ -6,7 +6,7 @@ require 'duyoji_gem_test/version'
 Gem::Specification.new do |spec|
   spec.name          = "duyoji_gem_test"
   spec.version       = DuyojiGemTest::VERSION
-  spec.authors       = ["Tsuyoshi Maedaa"]
+  spec.authors       = ["Tsuyoshi Maeda"]
   spec.email         = ["oasis5tsuyoshi@gmail.com"]
   spec.description   = %q{this is duyoji_gem_test description}
   spec.summary       = %q{this is duyoji_gem_test summary}
